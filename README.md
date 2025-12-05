@@ -30,3 +30,13 @@ This system demonstrates that *classic ML + modern embeddings* can outperform ma
 
 ---
 
+
+---
+
+## 🔧 Installation
+
+```bash
+pip install tensorflow tensorflow_hub tensorflow_text
+pip install scikit-learn seaborn matplotlib catboost xgboost
+
+
